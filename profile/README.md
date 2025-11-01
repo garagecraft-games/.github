@@ -6,7 +6,7 @@
 
 <h3 align="center">Software Craftsmanship meets Game Development</h3>
 
-**Garagecraft Games** was founded by a full-stack software developer with a deep-seated belief that creating software is a <a href="https://thorsten.suckow-homberg.de/docs/articles/software-craftsmanship" target="_blank">craft</a>.
+**Garagecraft Games** was founded with a deep-seated belief that creating software is a <a href="https://thorsten.suckow-homberg.de/docs/articles/software-craftsmanship" target="_blank">craft</a>.
 
 This organization is my space to apply years of experience in software design and development to a new passion: <strong>indie game development</strong>. I love exploring the *how* and *why*. Hence, Garagacraft is also an educational project for me.
 
